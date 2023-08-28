@@ -25,7 +25,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Saif+Al+Siam">「 Contact Me 」</a>
+    <a href="#">「 Contact Me 」</a>
     <br>
     「 I am a Full Stack developer from <b>India</b> 」
     <br>
