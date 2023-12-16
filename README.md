@@ -51,7 +51,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="assets/Coding.gif" alt="Coding gif" />
+ <img alt="Coder GIF" align = "right"  width=400px src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
   
  ✌️ &emsp; Enjoys to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love writing code and learning new technology<br/><br/>
