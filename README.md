@@ -51,7 +51,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+ <img align="right" width="350" src="assets/Coding.gif" alt="Coding gif" />
   
  ✌️ &emsp; Enjoys to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love writing code and learning new technology<br/><br/>
