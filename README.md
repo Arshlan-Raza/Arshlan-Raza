@@ -25,9 +25,9 @@
 
 <p align="center"> 
   <samp>
-    <a href="#">「 Contact Me 」</a>
+    <a href="https://www.linkedin.com/in/arshlan-raza-82674719a/">「 Contact Me 」</a>
     <br>
-    「 I am a aiming Full Stack developer from <b>India</b> 」
+    「 I am a aiming MERN Stack developer from <b>India</b> 」
     <br>
     <br>
   </samp>
