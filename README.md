@@ -1,15 +1,14 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Arshlan-Raza/Arshlan-Raza/main/assets/banner-tech-icons.png" alt="Tech Banner" />
+<p align="center" style="margin-bottom: 0;">
+  <img src="https://github.com/Arshlan-Raza/Arshlan-Raza/blob/master/assets/banner-github.png" alt="Tech Banner" width="100%" />
 </p>
-
-<h1 align="center">
+<h1 align="center" style="margin-top: 0;">
   Ahoy! Welcome to <span style="color:#00FFFF">Arshlan's World 🌊🏴‍☠️</span>
   <br>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer+%7C+3D+Web+Wizard;Cybersecurity+Enthusiast+%7C+QA+Explorer;Sailing+the+Seas+of+Code+with+Passion+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer+%7C+3D+Web+Wizard;Cybersecurity+Enthusiast+%7C+QA+Intern;Sailing+the+Seas+of+Code+with+Passion+🚀" alt="Typing SVG" />
 </p>
 
 ---
