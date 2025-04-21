@@ -8,7 +8,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer+%7C+3D+Web+Wizard;Cybersecurity+Enthusiast+%7C+QA+Intern;Sailing+the+Seas+of+Code+with+Passion+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=f49191&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer+%7C+3D+Web+Wizard;Cybersecurity+Enthusiast+%7C+QA+Intern;Sailing+the+Seas+of+Code+with+Passion+🚀" alt="Typing SVG" />
 </p>
 
 ---
@@ -30,7 +30,7 @@
 <h3 align="center">💡 Quote That Fuels My Code</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=00FFFF&center=true&vCenter=true&width=800&lines=The+only+way+to+do+great+work+is+to+love+what+you+do+–+Steve+Jobs.;Keep+coding,+keep+sailing+%F0%9F%8F%B4!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=00d86d&center=true&vCenter=true&width=800&lines=The+only+way+to+do+great+work+is+to+love+what+you+do+–+Steve+Jobs.;Keep+coding,+keep+sailing+%F0%9F%8F%B4!" />
 </p>
 
 ---
