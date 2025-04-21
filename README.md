@@ -2,7 +2,7 @@
   <img src="https://github.com/Arshlan-Raza/Arshlan-Raza/blob/master/assets/banner-github.png" alt="Tech Banner" width="100%" />
 </p>
 <h1 align="center" style="margin-top: 0;">
-  Ahoy! Welcome to <span style="color:#00FFFF">Arshlan's World 🌊🏴‍☠️</span>
+  Ahoy! Welcome to <span style="color:#00FFFF">My Tech World🏴‍☠️</span>
   <br>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h1>
@@ -47,13 +47,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arshlan-raza-82674719a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%2300FFFF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%23f49191F?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
   <a href="https://twitter.com/arshlan_raza" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%2300FFFF?style=for-the-badge&logo=twitter&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Twitter-%23f49191F?style=for-the-badge&logo=twitter&logoColor=black"/>
   </a>
   <a href="https://www.instagram.com/_arslan_rza/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%2300FFFF?style=for-the-badge&logo=instagram&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Instagram-%23f49191F?style=for-the-badge&logo=instagram&logoColor=black"/>
   </a>
 </p>
 
@@ -63,20 +63,20 @@
 
 <p align="center">
   <a href="https://github.com/Arshlan-Raza">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arshlan-Raza&theme=react&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arshlan-Raza&theme=react&ring=f49191&fire=00FFFF&currStreakLabel=00d86d" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Arshlan-Raza">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arshlan-Raza&theme=github_dark&color=00FFFF" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arshlan-Raza&theme=github_dark&color=00d86d" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Arshlan-Raza">
-    <img height="180px" width="48%" src="https://github-readme-stats.vercel.app/api?username=Arshlan-Raza&show_icons=true&theme=radical&icon_color=00FFFF&text_color=00FFFF" />
-    <img height="180px" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshlan-Raza&layout=compact&theme=radical&text_color=00FFFF" />
+    <img height="180px" width="48%" src="https://github-readme-stats.vercel.app/api?username=Arshlan-Raza&show_icons=true&theme=radical&icon_color=00d86d&text_color=f49191" />
+    <img height="180px" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshlan-Raza&layout=compact&theme=radical&text_color=f49191" />
   </a>
 </p>
 
@@ -95,11 +95,11 @@
 <h3 align="center">🧰 My Treasure Chest of Tools</h3>
 
 <p align="center">
-  ⚙️ QA Tools: Selenium, Postman, JMeter, Burp Suite, Puppeteer  
-  📦 Web Scraping & Automation Master  
-  🚀 3D Dev with Three.js + GSAP  
-  🌐 Full-Stack Projects with API Integration  
-  🛠️ Always building something... piratey 🏴‍☠️
+  ⚙️ QA Tools: Selenium, Postman, JMeter, Burp Suite, Puppeteer  </br>
+  📦 Web Scraping & Automation Master  </br>
+  🚀 3D Dev with Three.js + GSAP  </br>
+  🌐 Full-Stack Projects with API Integration  </br>
+  🛠️ Always building something... piratey 🏴‍☠️</br>
 </p>
 
 ---
