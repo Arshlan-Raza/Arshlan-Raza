@@ -40,8 +40,37 @@
 <h3 align="center">🔧 Tech Arsenal</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,html,css,tailwind,threejs,vscode,git,postman,java,cpp,python,bash" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-555555?logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-FF6F61?logo=api&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/JMeter-D22128?logo=apachejmeter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rest_Assured-16A085?logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6600?logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipseide&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web_Scraping-4B8BBE?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/API_Automation-FA7343?logo=automation&logoColor=white" />
+  <img src="https://img.shields.io/badge/3D_Web_Dev-FC6D26?logo=three.js&logoColor=white" />
 </p>
+
 
 ---
 
