@@ -18,7 +18,7 @@
   <img align="right" width="280" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
 </p>
 
-<h3 align="left">----------------------------------------------------------------</h3>
+<h3 align="left">---------------------------------------------------------------</h3>
 
 
 - 💻 Full Stack Dev & QA | MERN Stack, Puppeteer, Three.js Fanatic  
